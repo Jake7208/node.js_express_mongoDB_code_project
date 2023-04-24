@@ -1,0 +1,2 @@
+learning queries in mongodb, 
+db.name of collection.update/find/delete.
