@@ -304,3 +304,7 @@ natours-test>
 all commands i used using mongodb for education 
 
 can also use delete many not recommended but possible.
+
+lt is less than
+
+gt is greater than
